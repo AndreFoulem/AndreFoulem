@@ -1,6 +1,7 @@
-### Hi! My name is André. I am a web developer.
+##### Hi! My name is André. I am a web developer.
 
-#### I build with React. I code with Javascript & Typescript. I design with Figma. I style with CSS and Sass.
+I build with React, and code in Javascript and Typescript. I scaffold backends with serverless solutions.
+I am driven to build applications to enliven users with fun, creative, and useful experiences.
 
 ![react](andrefoulem.webp)
 
@@ -10,7 +11,7 @@
 
 #
 
-> Frameworks + Libraries
+> ### Frameworks + Libraries
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -21,14 +22,14 @@
 
 #
 
-> Languages
+> ### Languages
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #
 
-> Dev tools
+> ### Dev tools
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
@@ -39,7 +40,7 @@
 
 #
 
-> Cloud
+> ### Cloud
 
 ![dynamo](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -47,7 +48,7 @@
 
 #
 
-> Design
+> ### Design
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,12 +57,14 @@
 
 #
 
-> Blockchains
+> ### Blockchains
 
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![doge](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 
-> Social
+#
+
+> ### Social
 
 ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
