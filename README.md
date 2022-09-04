@@ -1,12 +1,6 @@
-> #### Hi! My name is André. I am a web developer.
-
-#
-
-> #### I am driven to build applications to enliven users with fun, creative, and engaging experiences.
-
-#
-
-![react](andrefoulem.webp)
+> #### Hi! My name is André Foulem. I am a web developer.
+>
+> ![react](andrefoulem.webp)
 
 #
 
