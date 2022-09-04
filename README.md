@@ -2,7 +2,7 @@
 
 #
 
-> #### I build with React, and code in Javascript and Typescript. I scaffold backends with serverless solutions. I am driven to build applications to enliven users with fun, creative, and engaging experiences.
+> #### I am driven to build applications to enliven users with fun, creative, and engaging experiences.
 
 #
 
@@ -45,9 +45,16 @@
 
 > ### Cloud
 
-![dynamo](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+#
+
+> ### Data
+
+![amazondb](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 #
 
