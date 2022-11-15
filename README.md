@@ -1,6 +1,6 @@
 > #### Hi! My name is André Foulem. I am a web developer.
 >
-> ![react](andrefoulem.webp)
+> ![react](linked_header.webp)
 
 #
 
