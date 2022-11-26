@@ -1,6 +1,6 @@
 > #### Hi! My name is André Foulem. I am a web developer.
 >
-> ![react](linked_header.webp)
+> ![banner](linkedin_v2.jpg)
 
 #
 
