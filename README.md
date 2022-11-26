@@ -1,4 +1,4 @@
-> #### Hi! My name is André Foulem. I am a web developer.
+> #### Hi! My name is André Foulem. I am a AR + Web engineer.
 >
 > ![banner](linkedin_v2.jpg)
 
