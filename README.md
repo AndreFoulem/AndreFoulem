@@ -6,11 +6,9 @@
 
 ![summary](https://github-readme-streak-stats.herokuapp.com/?user=andrefoulem)
 
-#
-
-#
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefoulem&layout=compactlangs_count=8&theme=tokyonight)
+
+#
 
 > ### Languages
 
@@ -21,6 +19,8 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+#
+
 > ### Dev tools
 
 ![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -28,6 +28,8 @@
 ![iterm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+#
 
 > ### Frameworks + Libraries
 
@@ -38,15 +40,21 @@
 ![np](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
+#
+
 > ### Cloud
 
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+#
 
 > ### Data
 
 ![sqllite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![dynamodb](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+#
 
 > ### Design
 
