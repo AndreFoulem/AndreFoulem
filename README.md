@@ -1,6 +1,6 @@
-> #### Hi! My name is André Foulem. I am a web developer.
+> #### Hi! My name is André Foulem. I am an iOS Developer.
 >
-> ![banner](linkedin_v2.jpg)
+> ![banner](linkedin_header.webp)
 
 #
 
@@ -8,7 +8,9 @@
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefoulem&theme=tokyonight)
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefoulem&layout=compactlangs_count=8&theme=tokyonight)
 
 > ### Frameworks + Libraries
 
