@@ -1,6 +1,6 @@
 ### Hi! My name is André Foulem. I am an iOS Engineer.
 
-> ## [MyTwitter](https://twitter.com/andreincolors) | [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-foulem-845087244/)
+> ## [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-foulem-845087244/)
 
 ![banner](linkedin_header.webp)
 
