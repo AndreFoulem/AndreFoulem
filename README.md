@@ -6,4 +6,5 @@
 
 ![summary](https://github-readme-streak-stats.herokuapp.com/?user=andrefoulem)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefoulem&layout=compactlangs_count=8&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefoulem&hide_progress=true)
