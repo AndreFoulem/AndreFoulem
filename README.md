@@ -1,4 +1,4 @@
-### Hi! My name is André Foulem. I am an iOS Engineer.
+### André Foulem - Kindship
 
 > ## [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-foulem-845087244/)
 
